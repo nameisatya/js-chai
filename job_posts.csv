@@ -1,0 +1,92 @@
+post_id,provider_id,post_date,job_title,applicants
+1,1,2025-03-19,Delivery Boy,10
+2,1,2025-03-13,Electrician,4
+3,1,2025-03-24,Telecaller,12
+4,1,2025-03-09,Office Assistant,18
+5,2,2025-03-14,Telecaller,7
+6,2,2025-03-08,Electrician,20
+7,2,2025-03-04,Electrician,19
+8,3,2025-03-28,Electrician,3
+9,3,2025-03-19,Office Assistant,14
+10,3,2025-03-29,Telecaller,10
+11,4,2025-03-12,Telecaller,10
+12,4,2025-03-12,Warehouse Helper,12
+13,6,2025-04-10,Electrician,8
+14,6,2025-04-03,Electrician,12
+15,6,2025-04-09,Delivery Boy,9
+16,8,2025-04-03,Delivery Boy,12
+17,8,2025-03-25,Electrician,12
+18,9,2025-03-06,Telecaller,18
+19,9,2025-03-13,Warehouse Helper,20
+20,10,2025-03-18,Telecaller,18
+21,10,2025-03-21,Warehouse Helper,14
+22,10,2025-03-18,Office Assistant,1
+23,11,2025-03-19,Delivery Boy,13
+24,12,2025-03-21,Telecaller,17
+25,12,2025-03-18,Telecaller,17
+26,12,2025-03-21,Office Assistant,11
+27,13,2025-03-22,Telecaller,16
+28,14,2025-04-07,Electrician,0
+29,14,2025-04-08,Telecaller,7
+30,14,2025-03-31,Office Assistant,9
+31,14,2025-04-03,Telecaller,11
+32,15,2025-03-23,Electrician,0
+33,15,2025-04-06,Warehouse Helper,6
+34,15,2025-03-23,Office Assistant,16
+35,16,2025-03-08,Office Assistant,15
+36,17,2025-03-29,Office Assistant,16
+37,17,2025-03-24,Delivery Boy,14
+38,17,2025-03-30,Warehouse Helper,16
+39,19,2025-03-26,Telecaller,3
+40,19,2025-03-14,Electrician,13
+41,19,2025-03-26,Electrician,11
+42,20,2025-04-03,Warehouse Helper,6
+43,21,2025-04-05,Delivery Boy,7
+44,22,2025-03-20,Telecaller,0
+45,24,2025-03-15,Electrician,0
+46,24,2025-03-06,Warehouse Helper,13
+47,24,2025-03-14,Warehouse Helper,9
+48,26,2025-03-17,Warehouse Helper,16
+49,26,2025-03-07,Office Assistant,4
+50,27,2025-03-29,Telecaller,7
+51,27,2025-04-04,Telecaller,17
+52,27,2025-03-28,Telecaller,2
+53,28,2025-03-02,Office Assistant,4
+54,28,2025-03-16,Delivery Boy,4
+55,28,2025-03-04,Telecaller,11
+56,29,2025-03-12,Telecaller,16
+57,29,2025-03-23,Office Assistant,11
+58,29,2025-03-18,Telecaller,1
+59,29,2025-03-15,Electrician,3
+60,30,2025-04-08,Delivery Boy,6
+61,30,2025-04-10,Warehouse Helper,13
+62,30,2025-04-02,Telecaller,4
+63,30,2025-03-29,Warehouse Helper,2
+64,31,2025-03-19,Delivery Boy,4
+65,31,2025-03-25,Telecaller,13
+66,32,2025-03-21,Delivery Boy,1
+67,33,2025-03-14,Telecaller,2
+68,34,2025-03-22,Office Assistant,14
+69,35,2025-03-30,Warehouse Helper,13
+70,36,2025-03-28,Delivery Boy,0
+71,36,2025-04-02,Office Assistant,12
+72,37,2025-03-20,Delivery Boy,1
+73,37,2025-03-15,Delivery Boy,7
+74,38,2025-04-01,Warehouse Helper,17
+75,38,2025-03-25,Electrician,20
+76,39,2025-03-26,Telecaller,17
+77,39,2025-03-29,Office Assistant,20
+78,39,2025-03-22,Telecaller,1
+79,39,2025-03-27,Office Assistant,10
+80,41,2025-03-24,Office Assistant,2
+81,41,2025-04-05,Warehouse Helper,19
+82,42,2025-03-26,Delivery Boy,19
+83,42,2025-03-18,Telecaller,20
+84,44,2025-03-17,Office Assistant,13
+85,45,2025-03-13,Electrician,17
+86,45,2025-03-09,Telecaller,0
+87,45,2025-03-12,Delivery Boy,20
+88,46,2025-03-17,Office Assistant,5
+89,48,2025-03-16,Office Assistant,3
+90,50,2025-03-10,Office Assistant,11
+91,50,2025-03-13,Office Assistant,13

@@ -1,0 +1,20 @@
+redemption_id,provider_id,date,incentive_type,value
+1,1,2025-03-14,First Post Bonus,100
+2,3,2025-03-23,Referral Bonus,100
+3,4,2025-03-08,First Post Bonus,200
+4,8,2025-03-27,First Post Bonus,200
+5,9,2025-03-07,First Post Bonus,100
+6,11,2025-03-18,First Post Bonus,200
+7,14,2025-04-03,First Post Bonus,100
+8,15,2025-04-01,Referral Bonus,200
+9,19,2025-03-18,Referral Bonus,200
+10,22,2025-03-22,Referral Bonus,100
+11,27,2025-03-23,First Post Bonus,100
+12,35,2025-03-27,First Post Bonus,200
+13,36,2025-04-02,Referral Bonus,100
+14,37,2025-03-14,First Post Bonus,100
+15,39,2025-03-25,Referral Bonus,200
+16,40,2025-03-29,Referral Bonus,200
+17,42,2025-03-13,First Post Bonus,100
+18,47,2025-03-17,Referral Bonus,200
+19,48,2025-03-16,First Post Bonus,100
